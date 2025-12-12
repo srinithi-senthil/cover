@@ -119,7 +119,6 @@ Publish the website in the LocalHost.
 ```
 
 ## OUTPUT:
-![alt text](<sri/bookapp/static/srinithi profil photo.jpg>)
-
+![alt text](<Screenshot 2025-12-12 185012.png>)
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
